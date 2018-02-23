@@ -25,6 +25,10 @@ Text](http://rwet.decontextualize.com/).
 * [Poetics of grouping](poetics-of-grouping.ipynb)
 * [Programming Exercise C](programming-exercise-c.ipynb)
 
+### Session 05
+
+* [Dealing with JSON](dealing-with-json.ipynb)
+
 ### More TK
 
 ## License
