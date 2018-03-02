@@ -29,6 +29,10 @@ Text](http://rwet.decontextualize.com/).
 
 * [Dealing with JSON](dealing-with-json.ipynb)
 
+### Session 06
+
+* [Tracery and Python](tracery-and-python.ipynb)
+
 ### More TK
 
 ## License
