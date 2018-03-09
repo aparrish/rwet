@@ -33,6 +33,10 @@ Text](http://rwet.decontextualize.com/).
 
 * [Tracery and Python](tracery-and-python.ipynb)
 
+### Session 07
+
+* [NLP Concepts with spaCy](nlp-concepts-with-spacy.ipynb)
+
 ### More TK
 
 ## License
