@@ -37,6 +37,11 @@ Text](http://rwet.decontextualize.com/).
 
 * [NLP Concepts with spaCy](nlp-concepts-with-spacy.ipynb)
 
+### Session 08
+
+* [N-grams and Markov chains](ngrams-and-markov-chains.ipynb)
+* RNN notes TK
+
 ### More TK
 
 ## License
