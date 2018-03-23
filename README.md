@@ -40,7 +40,7 @@ Text](http://rwet.decontextualize.com/).
 ### Session 08
 
 * [N-grams and Markov chains](ngrams-and-markov-chains.ipynb)
-* RNN notes TK
+* [Neural network text predition with textgenrnn](neural-network-text-prediction-with-textgenrnn.ipynb)
 
 ### More TK
 
