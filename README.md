@@ -42,6 +42,11 @@ Text](http://rwet.decontextualize.com/).
 * [N-grams and Markov chains](ngrams-and-markov-chains.ipynb)
 * [Neural network text predition with textgenrnn](neural-network-text-prediction-with-textgenrnn.ipynb)
 
+### Supplementary material
+
+* [Regular expressions in Python: A Gentle Introduction](regular-expressions-a-gentle-introduction.ipynb)
+* [Quick and dirty keyword extraction](quick-and-dirty-keywords.ipynb)
+
 ### More TK
 
 ## License
