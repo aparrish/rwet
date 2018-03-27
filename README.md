@@ -39,12 +39,14 @@ Text](http://rwet.decontextualize.com/).
 
 ### Session 08
 
-* [N-grams and Markov chains](ngrams-and-markov-chains.ipynb)
+* [N-grams and Markov chains](ngrams-and-markov-chains.ipynb) (Make sure to download the
+  standalone version of the Markov chain code
+  [here](https://gist.github.com/aparrish/14cb94ce539a868e6b8714dd84003f06))
 * [Neural network text predition with textgenrnn](neural-network-text-prediction-with-textgenrnn.ipynb)
 
 ### Supplementary material
 
-* [Regular expressions in Python: A Gentle Introduction](regular-expressions-a-gentle-introduction.ipynb)
+* [Regular expressions in Python: a gentle introduction](regular-expressions-a-gentle-introduction.ipynb)
 * [Quick and dirty keyword extraction](quick-and-dirty-keywords.ipynb)
 
 ### More TK
