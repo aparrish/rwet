@@ -44,6 +44,10 @@ Text](http://rwet.decontextualize.com/).
   [here](https://gist.github.com/aparrish/14cb94ce539a868e6b8714dd84003f06))
 * [Neural network text predition with textgenrnn](neural-network-text-prediction-with-textgenrnn.ipynb)
 
+### Session 09
+
+* [Understanding word vectors](understanding-word-vectors.ipynb)
+
 ### Supplementary material
 
 * [Regular expressions in Python: a gentle introduction](regular-expressions-a-gentle-introduction.ipynb)
