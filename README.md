@@ -52,6 +52,7 @@ Text](http://rwet.decontextualize.com/).
 
 * [Regular expressions in Python: a gentle introduction](regular-expressions-a-gentle-introduction.ipynb)
 * [Quick and dirty keyword extraction](quick-and-dirty-keywords.ipynb)
+* [Scraping HTML](scraping-html.ipynb)
 
 ### More TK
 
