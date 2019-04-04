@@ -1,0 +1,13 @@
+name: rwet
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - tensorflow
+  - pip:
+    - markovify
+    - simpleneighbors
+    - pronouncing
+    - tracery
+  - spacy
+  - textgenrnn
