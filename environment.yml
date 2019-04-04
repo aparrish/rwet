@@ -9,5 +9,5 @@ dependencies:
     - simpleneighbors
     - pronouncing
     - tracery
+    - textgenrnn
   - spacy
-  - textgenrnn
