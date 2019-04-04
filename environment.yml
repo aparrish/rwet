@@ -4,6 +4,8 @@ channels:
 dependencies:
   - python
   - tensorflow
+  - pandas
+  - matplotlib
   - pip:
     - markovify
     - simpleneighbors
