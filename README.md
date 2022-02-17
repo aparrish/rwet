@@ -5,56 +5,29 @@ Text](http://rwet.decontextualize.com/).
 
 ## Contents
 
-### Session 01
-
 * [Jupyter Notebook tutorial](jupyter-notebook-tutorial.ipynb)
 * [Programming Exercise A](programming-exercise-a.ipynb)
-
-### Session 02
-
 * [Expressions and strings](expressions-and-strings.ipynb)
 * [Some poetry generators](some-poetry-generators.ipynb)
 * [Programming Exercise B](programming-exercise-b.ipynb)
-
-### Session 03
-
 * [Understanding lists, manipulating lines](understanding-lists-manipulating-lines.ipynb)
-
-### Session 04
-
 * [Poetics of grouping](poetics-of-grouping.ipynb)
 * [Programming Exercise C](programming-exercise-c.ipynb)
-
-### Session 05
-
 * [Dealing with JSON](dealing-with-json.ipynb)
-
-### Session 06
-
 * [Tracery and Python](tracery-and-python.ipynb)
-
-### Session 07
-
 * [NLP Concepts with spaCy](nlp-concepts-with-spacy.ipynb)
-
-### Session 08
-
-* [N-grams and Markov chains](ngrams-and-markov-chains.ipynb) (Make sure to download the
-  standalone version of the Markov chain code
-  [here](https://gist.github.com/aparrish/14cb94ce539a868e6b8714dd84003f06))
-* [Neural network text predition with textgenrnn](neural-network-text-prediction-with-textgenrnn.ipynb)
-
-### Session 09
-
+* [N-grams and Markov chains](ngrams-and-markov-chains.ipynb) (Make sure to download the standalone version of the Markov chain code [here](https://gist.github.com/aparrish/14cb94ce539a868e6b8714dd84003f06))
 * [Understanding word vectors](understanding-word-vectors.ipynb)
+* [Neighbors, clusters and classification](neighbors-clusters-classification.ipynb)
+* [Transformers playground](transformers-playground.ipynb)
 
-### Supplementary material
+## Supplementary material
 
 * [Regular expressions in Python: a gentle introduction](regular-expressions-a-gentle-introduction.ipynb)
 * [Quick and dirty keyword extraction](quick-and-dirty-keywords.ipynb)
 * [Scraping HTML](scraping-html.ipynb)
 
-### More TK
+More TK!
 
 ## License
 
